@@ -6,7 +6,7 @@
 
 ### Experimenting with: ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UncleDrema&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UncleDrema&hide=shell&theme=tokyonight)
 
 <!--
 **UncleDrema/UncleDrema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
