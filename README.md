@@ -6,6 +6,4 @@
 
 ### Experimenting with: ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UncleDrema&hide=shell&size_weight=0.1&count_weight=0.9)
-
 ![Codewars](https://github.r2v.ch/codewars?user=UncleDrema&theme=light&top_languages=true)
